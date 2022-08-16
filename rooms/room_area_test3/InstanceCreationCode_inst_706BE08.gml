@@ -1,0 +1,1 @@
+weapon=weapons.hominggun

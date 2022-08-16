@@ -1,0 +1,1 @@
+destructible=true

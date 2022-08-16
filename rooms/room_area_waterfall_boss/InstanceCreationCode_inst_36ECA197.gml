@@ -1,0 +1,1 @@
+player=o_controller.player1

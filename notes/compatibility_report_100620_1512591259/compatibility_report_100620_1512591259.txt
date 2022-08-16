@@ -1,0 +1,414 @@
+Converting GML script: ${project_dir}\scripts\init_zero_variables\init_zero_variables.gml
+Converted builtin - line 8: view_xview[0] = x - view_wview[0] / 2 -> __view_set( e__VW.XView, 0, x - view_wview[0] / 2 )
+Converted builtin - line 9: view_yview[0] = y - view_hview[0] / 2 -> __view_set( e__VW.YView, 0, y - view_hview[0] / 2 )
+Converted builtin - line 8: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 9: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\scripts\init_zero_collisions\init_zero_collisions.gml
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\init_zero_collisions\init_zero_collisions.gml - 205: number of arguments expected 5 got 3
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\init_zero_collisions\init_zero_collisions.gml - 221: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\init_zero_collisions\init_zero_collisions.gml - 244: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\init_zero_collisions\init_zero_collisions.gml - 261: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\init_zero_collisions\init_zero_collisions.gml - 276: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\init_zero_collisions\init_zero_collisions.gml - 284: unexpected syntax error
+Too many errors - GML not processed : ${project_dir}\scripts\init_zero_collisions\init_zero_collisions.gml
+
+Converting GML script: ${project_dir}\scripts\init_control\init_control.gml
+Converted string - line 127: 'P' -> "P"
+
+Converting GML script: ${project_dir}\scripts\init_control_old\init_control_old.gml
+Converted string - line 19: 'D' -> "D"
+Converted string - line 20: 'A' -> "A"
+Converted string - line 25: 'K' -> "K"
+Converted string - line 26: 'K' -> "K"
+Converted string - line 27: 'L' -> "L"
+Converted string - line 28: 'L' -> "L"
+Converted string - line 29: 'L' -> "L"
+Converted string - line 30: 'J' -> "J"
+Converted string - line 31: 'J' -> "J"
+Converted string - line 32: 'W' -> "W"
+Converted string - line 33: 'W' -> "W"
+Converted string - line 34: 'S' -> "S"
+Converted string - line 35: 'I' -> "I"
+Converted string - line 36: 'I' -> "I"
+Converted string - line 37: 'P' -> "P"
+
+Converting GML script: ${project_dir}\scripts\draw_zero\draw_zero.gml
+Converted builtin - line 80: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 82: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 120: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 121: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 186: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 248: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 249: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 250: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 251: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 252: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 253: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 254: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 255: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 256: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 263: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 264: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 265: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 266: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 267: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 268: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 269: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 270: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 271: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 272: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 273: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 80: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 82: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 120: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 121: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 186: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 248: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 249: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 250: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 251: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 252: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 253: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 254: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 255: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 256: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 263: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 264: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 265: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 266: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 267: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 268: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 269: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 270: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 271: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 272: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 273: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\scripts\init_camera\init_camera.gml
+Converted builtin - line 5: o_camera.screen_left = x - o_camera.screen_width/2 -> __view_set( e__VW.XView, view_current, x - o_camera.screen_width/2 )
+Converted builtin - line 11: o_camera.screen_left=0 -> __view_set( e__VW.XView, view_current, 0 )
+Converted builtin - line 15: o_camera.screen_left=room_width-o_camera.screen_width -> __view_set( e__VW.XView, view_current, room_width-o_camera.screen_width )
+Converted builtin - line 23: o_camera.screen_top = y - o_camera.screen_height/2 -> __view_set( e__VW.YView, view_current, y - o_camera.screen_height/2 )
+Converted builtin - line 29: o_camera.screen_top=0 -> __view_set( e__VW.YView, view_current, 0 )
+Converted builtin - line 33: o_camera.screen_top=room_height-o_camera.screen_height -> __view_set( e__VW.YView, view_current, room_height-o_camera.screen_height )
+Converted builtin - line 2: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 3: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 9: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 13: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 20: o_camera.screen_height -> o_camera.screen_height
+Converted builtin - line 21: o_camera.screen_height -> o_camera.screen_height
+Converted builtin - line 27: o_camera.screen_height -> o_camera.screen_height
+Converted builtin - line 31: o_camera.screen_height -> o_camera.screen_height
+Converted builtin - line 5: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 15: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 23: o_camera.screen_height -> o_camera.screen_height
+Converted builtin - line 33: o_camera.screen_height -> o_camera.screen_height
+
+Converting GML script: ${project_dir}\scripts\init_enemy_attack_timer\init_enemy_attack_timer.gml
+Converted builtin - line 30: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 31: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 32: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 33: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 31: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 27: o_camera.screen_height -> o_camera.screen_height
+Converted builtin - line 27: o_camera.screen_height -> o_camera.screen_height
+Converted builtin - line 33: o_camera.screen_height -> o_camera.screen_height
+
+Converting GML script: ${project_dir}\scripts\floor_hor_step\floor_hor_step.gml
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\floor_hor_step\floor_hor_step.gml - 28: number of arguments expected 5 got 3
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\floor_hor_step\floor_hor_step.gml - 55: number of arguments expected 5 got 3
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\floor_hor_step\floor_hor_step.gml - 81: number of arguments expected 5 got 3
+Too many errors - GML not processed : ${project_dir}\scripts\floor_hor_step\floor_hor_step.gml
+
+Converting GML script: ${project_dir}\scripts\floor_hor_step_old\floor_hor_step_old.gml
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\floor_hor_step_old\floor_hor_step_old.gml - 53: number of arguments expected 5 got 3
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\floor_hor_step_old\floor_hor_step_old.gml - 131: number of arguments expected 5 got 3
+Too many errors - GML not processed : ${project_dir}\scripts\floor_hor_step_old\floor_hor_step_old.gml
+
+Converting GML script: ${project_dir}\scripts\floor_ver_step\floor_ver_step.gml
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\floor_ver_step\floor_ver_step.gml - 36: number of arguments expected 5 got 3
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\floor_ver_step\floor_ver_step.gml - 62: number of arguments expected 5 got 3
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\floor_ver_step\floor_ver_step.gml - 119: number of arguments expected 5 got 3
+Too many errors - GML not processed : ${project_dir}\scripts\floor_ver_step\floor_ver_step.gml
+
+Converting GML script: ${project_dir}\scripts\floor_ver_step_old\floor_ver_step_old.gml
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\floor_ver_step_old\floor_ver_step_old.gml - 65: number of arguments expected 5 got 3
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\floor_ver_step_old\floor_ver_step_old.gml - 113: number of arguments expected 5 got 3
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\floor_ver_step_old\floor_ver_step_old.gml - 135: number of arguments expected 5 got 3
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\floor_ver_step_old\floor_ver_step_old.gml - 162: number of arguments expected 5 got 3
+Too many errors - GML not processed : ${project_dir}\scripts\floor_ver_step_old\floor_ver_step_old.gml
+
+Converting GML script: ${project_dir}\scripts\scr_return_default_keyboard\scr_return_default_keyboard.gml
+Converted string - line 1: 'D' -> "D"
+Converted string - line 2: 'A' -> "A"
+Converted string - line 4: 'K' -> "K"
+Converted string - line 5: 'L' -> "L"
+Converted string - line 6: 'J' -> "J"
+Converted string - line 7: 'W' -> "W"
+Converted string - line 8: 'S' -> "S"
+Converted string - line 9: 'I' -> "I"
+Converted string - line 10: 'U' -> "U"
+
+Converting GML script: ${project_dir}\scripts\scr_save_binding\scr_save_binding.gml
+Converted string - line 5: 'g_control' -> "g_control"
+Converted string - line 5: 'g_attack_btn' -> "g_attack_btn"
+Converted string - line 6: 'g_control' -> "g_control"
+Converted string - line 6: 'g_lock_btn' -> "g_lock_btn"
+Converted string - line 7: 'g_control' -> "g_control"
+Converted string - line 7: 'g_toggle_btn' -> "g_toggle_btn"
+Converted string - line 8: 'g_control' -> "g_control"
+Converted string - line 8: 'g_jump_btn' -> "g_jump_btn"
+Converted string - line 9: 'g_control' -> "g_control"
+Converted string - line 9: 'g_gun_btn' -> "g_gun_btn"
+Converted string - line 11: 'k_control' -> "k_control"
+Converted string - line 11: 'k_left_btn' -> "k_left_btn"
+Converted string - line 12: 'k_control' -> "k_control"
+Converted string - line 12: 'k_right_btn' -> "k_right_btn"
+Converted string - line 13: 'k_control' -> "k_control"
+Converted string - line 13: 'k_up_btn' -> "k_up_btn"
+Converted string - line 14: 'k_control' -> "k_control"
+Converted string - line 14: 'k_down_btn' -> "k_down_btn"
+Converted string - line 15: 'k_control' -> "k_control"
+Converted string - line 15: 'k_attack_btn' -> "k_attack_btn"
+Converted string - line 16: 'k_control' -> "k_control"
+Converted string - line 16: 'k_lock_btn' -> "k_lock_btn"
+Converted string - line 17: 'k_control' -> "k_control"
+Converted string - line 17: 'k_toggle_btn' -> "k_toggle_btn"
+Converted string - line 18: 'k_control' -> "k_control"
+Converted string - line 18: 'k_jump_btn' -> "k_jump_btn"
+Converted string - line 19: 'k_control' -> "k_control"
+Converted string - line 19: 'k_gun_btn' -> "k_gun_btn"
+
+Converting GML script: ${project_dir}\scripts\scr_load_binding\scr_load_binding.gml
+Converted string - line 5: 'g_control' -> "g_control"
+Converted string - line 5: 'g_attack_btn' -> "g_attack_btn"
+Converted string - line 6: 'g_control' -> "g_control"
+Converted string - line 6: 'g_lock_btn' -> "g_lock_btn"
+Converted string - line 7: 'g_control' -> "g_control"
+Converted string - line 7: 'g_toggle_btn' -> "g_toggle_btn"
+Converted string - line 8: 'g_control' -> "g_control"
+Converted string - line 8: 'g_jump_btn' -> "g_jump_btn"
+Converted string - line 9: 'g_control' -> "g_control"
+Converted string - line 9: 'g_gun_btn' -> "g_gun_btn"
+Converted string - line 11: 'k_control' -> "k_control"
+Converted string - line 11: 'k_left_btn' -> "k_left_btn"
+Converted string - line 11: 'A' -> "A"
+Converted string - line 12: 'k_control' -> "k_control"
+Converted string - line 12: 'k_right_btn' -> "k_right_btn"
+Converted string - line 12: 'D' -> "D"
+Converted string - line 13: 'k_control' -> "k_control"
+Converted string - line 13: 'k_up_btn' -> "k_up_btn"
+Converted string - line 13: 'W' -> "W"
+Converted string - line 14: 'k_control' -> "k_control"
+Converted string - line 14: 'k_down_btn' -> "k_down_btn"
+Converted string - line 14: 'S' -> "S"
+Converted string - line 15: 'k_control' -> "k_control"
+Converted string - line 15: 'k_attack_btn' -> "k_attack_btn"
+Converted string - line 15: 'J' -> "J"
+Converted string - line 16: 'k_control' -> "k_control"
+Converted string - line 16: 'k_lock_btn' -> "k_lock_btn"
+Converted string - line 16: 'L' -> "L"
+Converted string - line 17: 'k_control' -> "k_control"
+Converted string - line 17: 'k_toggle_btn' -> "k_toggle_btn"
+Converted string - line 17: 'I' -> "I"
+Converted string - line 18: 'k_control' -> "k_control"
+Converted string - line 18: 'k_jump_btn' -> "k_jump_btn"
+Converted string - line 18: 'K' -> "K"
+Converted string - line 19: 'k_control' -> "k_control"
+Converted string - line 19: 'k_gun_btn' -> "k_gun_btn"
+Converted string - line 19: 'U' -> "U"
+
+Converting GML script: ${project_dir}\scripts\scr_faust_collisions\scr_faust_collisions.gml
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\scr_faust_collisions\scr_faust_collisions.gml - 100: number of arguments expected 5 got 3
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\scr_faust_collisions\scr_faust_collisions.gml - 116: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\scr_faust_collisions\scr_faust_collisions.gml - 139: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\scr_faust_collisions\scr_faust_collisions.gml - 158: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\scripts\scr_faust_collisions\scr_faust_collisions.gml - 178: unexpected syntax error
+Too many errors - GML not processed : ${project_dir}\scripts\scr_faust_collisions\scr_faust_collisions.gml
+
+Converting GML script: ${project_dir}\scripts\scr_faust_direct_attack\scr_faust_direct_attack.gml
+Converted builtin - line 108: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 108: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 109: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 109: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 108: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 109: o_camera.screen_height -> o_camera.screen_height
+
+Font font_debug has been converted to font family Arial (Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font_debug\font_debug.gms1.png
+Font font_menu has been converted to font family GungsuhChe (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font_menu\font_menu.gms1.png
+Converting GML script: ${project_dir}\objects\o_controller\Create_0.gml
+Converted string - line 47: 'D' -> "D"
+Converted string - line 48: 'A' -> "A"
+Converted string - line 50: 'K' -> "K"
+Converted string - line 51: 'L' -> "L"
+Converted string - line 52: 'J' -> "J"
+Converted string - line 53: 'W' -> "W"
+Converted string - line 54: 'S' -> "S"
+Converted string - line 55: 'I' -> "I"
+Converted string - line 56: 'U' -> "U"
+
+Converting GML script: ${project_dir}\objects\o_controller\Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\o_spawner\Step_2.gml
+Converted builtin - line 1: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 2: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 1: o_camera.screen_width -> o_camera.screen_width
+
+Converting GML script: ${project_dir}\objects\o_soldier_spawner\Step_0.gml
+Converted builtin - line 1: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 2: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 3: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 4: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 2: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 4: o_camera.screen_height -> o_camera.screen_height
+
+Converting GML script: ${project_dir}\objects\o_soldier_bullet\Step_0.gml
+Converted builtin - line 101: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 101: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 102: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 102: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 101: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 102: o_camera.screen_height -> o_camera.screen_height
+
+Converting GML script: ${project_dir}\objects\o_player_bullet\Step_0.gml
+Converted builtin - line 303: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 304: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 305: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 306: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 303: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 305: o_camera.screen_height -> o_camera.screen_height
+
+Converting GML script: ${project_dir}\objects\o_crosshair\Draw_0.gml
+Converted builtin - line 46: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 47: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 48: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 49: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 50: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 51: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 52: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 53: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 46: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 47: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 48: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 49: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 50: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 51: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 52: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 53: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 47: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 48: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 49: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 50: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 51: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 49: o_camera.screen_height -> o_camera.screen_height
+Converted builtin - line 50: o_camera.screen_height -> o_camera.screen_height
+Converted builtin - line 51: o_camera.screen_height -> o_camera.screen_height
+Converted builtin - line 52: o_camera.screen_height -> o_camera.screen_height
+Converted builtin - line 53: o_camera.screen_height -> o_camera.screen_height
+
+Converting GML script: ${project_dir}\objects\o_soldier\Step_0.gml
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_soldier\Step_0.gml - 365: number of arguments expected 5 got 3
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_soldier\Step_0.gml - 381: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_soldier\Step_0.gml - 404: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_soldier\Step_0.gml - 423: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_soldier\Step_0.gml - 443: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_soldier\Step_0.gml - 490: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_soldier\Step_0.gml - 501: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_soldier\Step_0.gml - 511: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_soldier\Step_0.gml - 577: unexpected syntax error
+Too many errors - GML not processed : ${project_dir}\objects\o_soldier\Step_0.gml
+
+Converting GML script: ${project_dir}\objects\o_heavy_pantheon\Step_0.gml
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_heavy_pantheon\Step_0.gml - 271: number of arguments expected 5 got 3
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_heavy_pantheon\Step_0.gml - 287: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_heavy_pantheon\Step_0.gml - 310: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_heavy_pantheon\Step_0.gml - 329: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_heavy_pantheon\Step_0.gml - 349: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_heavy_pantheon\Step_0.gml - 396: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_heavy_pantheon\Step_0.gml - 407: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_heavy_pantheon\Step_0.gml - 417: unexpected syntax error
+ERROR: C:\Users\Eugen\Documents\GameMakerStudio2\ArikadoMove\objects\o_heavy_pantheon\Step_0.gml - 483: unexpected syntax error
+Too many errors - GML not processed : ${project_dir}\objects\o_heavy_pantheon\Step_0.gml
+
+Converting GML script: ${project_dir}\objects\o_faust\Step_0.gml
+Converted builtin - line 2: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 3: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 71: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 72: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 441: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 449: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 450: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 458: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 466: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 475: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 483: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 484: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 493: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 501: o_camera.screen_left -> o_camera.screen_left
+Converted builtin - line 4: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 5: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 73: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 74: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 442: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 451: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 459: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 467: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 468: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 476: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 485: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 494: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 502: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 503: o_camera.screen_top -> o_camera.screen_top
+Converted builtin - line 3: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 72: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 450: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 458: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 466: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 475: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 484: o_camera.screen_width -> o_camera.screen_width
+Converted builtin - line 5: o_camera.screen_height -> o_camera.screen_height
+Converted builtin - line 74: o_camera.screen_height -> o_camera.screen_height
+Converted builtin - line 468: o_camera.screen_height -> o_camera.screen_height
+Converted builtin - line 476: o_camera.screen_height -> o_camera.screen_height
+Converted builtin - line 485: o_camera.screen_height -> o_camera.screen_height
+Converted builtin - line 494: o_camera.screen_height -> o_camera.screen_height
+Converted builtin - line 502: o_camera.screen_height -> o_camera.screen_height
+
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'snd_saber1' - setting to default audio group
+Missing audiogroup for sound: 'snd_strikes_finish' - setting to default audio group
+Missing audiogroup for sound: 'snd_background1' - setting to default audio group
+Missing audiogroup for sound: 'snd_enemy_posthelm' - setting to default audio group
+Missing audiogroup for sound: 'snd_vortex' - setting to default audio group
+Missing audiogroup for sound: 'snd_pitchfork_stuck' - setting to default audio group
+Missing audiogroup for sound: 'snd_hook_cling' - setting to default audio group
+Missing audiogroup for sound: 'snd_damage_taken' - setting to default audio group
+Missing audiogroup for sound: 'snd_enemy_attack' - setting to default audio group
+Missing audiogroup for sound: 'snd_groundpunch' - setting to default audio group
+Missing audiogroup for sound: 'snd_parry' - setting to default audio group
+Missing audiogroup for sound: 'snd_dash' - setting to default audio group
+Missing audiogroup for sound: 'snd_shield_throw' - setting to default audio group
+Missing audiogroup for sound: 'snd_saber2' - setting to default audio group
+Missing audiogroup for sound: 'snd_enemy_hit' - setting to default audio group
+Missing audiogroup for sound: 'snd_saber3' - setting to default audio group
+Missing audiogroup for sound: 'snd_strikes' - setting to default audio group
+Missing audiogroup for sound: 'snd_death' - setting to default audio group
+Missing audiogroup for sound: 'snd_small_shot' - setting to default audio group
+Missing audiogroup for sound: 'snd_charge_shot' - setting to default audio group
+Game speed set to 30
+String not found: ConversionLog_ScriptNameInUse
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

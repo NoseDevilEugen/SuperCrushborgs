@@ -1,0 +1,1 @@
+image_xscale=(16*31)/(sprite_get_width(sprite_index))

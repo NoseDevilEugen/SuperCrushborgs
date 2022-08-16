@@ -1,0 +1,4 @@
+o_camera.camera_border_left=2016
+o_camera.camera_border_top=1000
+o_camera.camera_border_right=2016+480
+o_camera.camera_border_bottom=room_height

@@ -1,0 +1,1 @@
+door_sprite=s_block_level_3_door

@@ -1,0 +1,2 @@
+timer_fly=360
+player=o_controller.player1

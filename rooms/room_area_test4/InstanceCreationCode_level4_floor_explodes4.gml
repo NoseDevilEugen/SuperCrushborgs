@@ -1,0 +1,1 @@
+door_sprite=s_floor_block_ceiling

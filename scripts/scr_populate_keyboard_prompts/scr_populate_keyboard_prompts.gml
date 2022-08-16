@@ -1,0 +1,32 @@
+function scr_populate_keyboard_prompts() {
+	keyboard_prompts=ds_map_create()
+
+	ds_map_add(o_controller.keyboard_prompts, vk_up, "Up")
+	ds_map_add(o_controller.keyboard_prompts, vk_down, "Down")
+	ds_map_add(o_controller.keyboard_prompts, vk_left, "Left")
+	ds_map_add(o_controller.keyboard_prompts, vk_right, "Right")
+	ds_map_add(o_controller.keyboard_prompts, vk_enter, "Enter")
+	ds_map_add(o_controller.keyboard_prompts, vk_escape, "Esc")
+	ds_map_add(o_controller.keyboard_prompts, vk_shift, "Shift")
+	ds_map_add(o_controller.keyboard_prompts, vk_control, "Ctrl")
+	ds_map_add(o_controller.keyboard_prompts, vk_alt, "Alt")
+	ds_map_add(o_controller.keyboard_prompts, vk_space, "Space")
+	ds_map_add(o_controller.keyboard_prompts, vk_backspace, "BackSpace")
+	ds_map_add(o_controller.keyboard_prompts, vk_tab, "Tab")
+	ds_map_add(o_controller.keyboard_prompts, vk_home, "Home")
+	ds_map_add(o_controller.keyboard_prompts, vk_delete, "Delete")
+	ds_map_add(o_controller.keyboard_prompts, vk_insert, "Insert")
+	ds_map_add(o_controller.keyboard_prompts, vk_numpad0, "Num0")
+	ds_map_add(o_controller.keyboard_prompts, vk_numpad1, "Num1")
+	ds_map_add(o_controller.keyboard_prompts, vk_numpad2, "Num2")
+	ds_map_add(o_controller.keyboard_prompts, vk_numpad3, "Num3")
+	ds_map_add(o_controller.keyboard_prompts, vk_numpad4, "Num4")
+	ds_map_add(o_controller.keyboard_prompts, vk_numpad5, "Num5")
+	ds_map_add(o_controller.keyboard_prompts, vk_numpad6, "Num6")
+	ds_map_add(o_controller.keyboard_prompts, vk_numpad7, "Num7")
+	ds_map_add(o_controller.keyboard_prompts, vk_numpad8, "Num8")
+	ds_map_add(o_controller.keyboard_prompts, vk_numpad9, "Num9")
+	//ds_map_add(o_controller.keyboard_prompts, ord("A"), chr(ord("A")))
+
+
+}

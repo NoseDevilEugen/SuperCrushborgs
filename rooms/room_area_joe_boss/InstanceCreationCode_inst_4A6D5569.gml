@@ -1,0 +1,1 @@
+my_next_room=room_area_richter_boss

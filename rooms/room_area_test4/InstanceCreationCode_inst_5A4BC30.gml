@@ -1,0 +1,1 @@
+timer_shoot=360

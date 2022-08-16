@@ -1,0 +1,2 @@
+hookshot_allowed=true
+

@@ -1,0 +1,4 @@
+o_camera.camera_border_left=0
+o_camera.camera_border_top=0
+o_camera.camera_border_right=1600
+o_camera.camera_border_bottom=270

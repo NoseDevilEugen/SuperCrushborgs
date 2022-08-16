@@ -1,0 +1,42 @@
+if(mouse_wheel_up())
+    {
+    if(spawn_picked>0)
+        {
+        spawn_picked=spawn_picked-1
+        }
+    if(spawn_picked==0)
+        {
+        spawn_picked=3
+        }
+    }
+if(mouse_wheel_down())
+    {
+    if(spawn_picked<3)
+        {
+        spawn_picked=spawn_picked+1
+        }
+    if(spawn_picked==3)
+        {
+        spawn_picked=0
+        }
+    }
+    
+if(keyboard_check_pressed(vk_numpad1))
+    {
+    spawn_picked=0
+    }
+if(keyboard_check_pressed(vk_numpad2))
+    {
+    spawn_picked=1
+    }
+if(keyboard_check_pressed(vk_numpad3))
+    {
+    spawn_picked=2
+    }
+if(keyboard_check_pressed(vk_numpad4))
+    {
+    spawn_picked=3
+    }            
+image_speed=0
+
+
